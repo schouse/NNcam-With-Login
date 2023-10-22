@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/01capture.ico</file>
+    <file>icons/02analysis.ico</file>
+    <file>icons/03Gallery.ico</file>
+    <file>icons/04settings.ico</file>
+    <file>icons/05support.ico</file>
+  </qresource>
+  <qresource prefix="logos"/>
+  <qresource prefix="images">
+    <file>icons/Splash_jpg.jpg</file>
+  </qresource>
+</RCC>

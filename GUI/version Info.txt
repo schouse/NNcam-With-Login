@@ -1,0 +1,2 @@
+Digitally sign by confirming.
+Maybe add exif data to tiff

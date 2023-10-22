@@ -1,0 +1,13 @@
+pyside2-uic TouptekMainWin.ui -o GUI_Main.py
+
+pyside2-uic TouptekProgramSettingsChildWindow.ui -o GUI_FactorySettings.py
+
+pyuic5 -x TouptekMainWin.ui -o GUI_Main.py
+
+pyuic5 -x TouptekProgramSettingsChildWindow.ui -o FactorySettings.py
+
+pyside2-rcc GUIresource.qrc -o resource_rc.py
+
+pyuic5 -x TouptekMainWin.ui -o GUI_1.py
+
+
